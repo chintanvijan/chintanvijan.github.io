@@ -72,7 +72,7 @@
 
 
 
-When Space Invaders was created, Tomohiro Nishikado left in the lag caused by more invaders on the screen in order to create greater difficulty in the games.
+
 
 The color red doesn’t really make bulls angry; they are color-blind.
 
