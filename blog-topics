@@ -1,0 +1,48 @@
+How Netflix Uses Microservices + Cell Architecture
+Horizontal vs Vertical Scaling: When Each Actually Makes Sense
+Designing Multi-Region Active-Active Systems
+Traffic Sharding Strategies (Geo, Hash, Hybrid)
+Eliminating Single Points of Failure in Distributed Systems
+Designing a Write-Heavy System (Queues, Log-based systems, CRDTs)
+DynamoDB / Cassandra style Partitioning explained
+Backpressure Handling Techniques in Production
+Real-time Streaming Architecture (Kafka, Pulsar, Redpanda)
+API Gateway + Edge Caching Design for <50ms Latency
+How CDNs Actually Work (and how to design for them)
+Pre-computation + Materialized Views for Speed
+Queue Bypass Architectures (Critical Path Optimizations)
+Uber’s Hexagonal Architecture
+Airbnb’s Service-Oriented Federation Architecture
+Meta’s Approach to Fault-Tolerant Microservices
+WhatsApp’s Erlang-based Architecture for 2B Users
+Event Sourcing vs Event Streaming vs Change Data Capture
+Design Patterns for At-Least-Once + Exactly-Once Delivery
+Workflow Orchestration (Temporal, Cadence, Airflow)
+Saga Pattern Deep Dive—With Real Use Case
+When (and Why) to Use Analytical DBs Like ClickHouse
+Architecting Multi-Tenant Databases
+Hot vs Cold Storage Tiering (S3 + Redis + DB combo)
+Search at Scale (Elasticsearch / OpenSearch / Vespa)
+Designing Zero Trust Architecture
+API Rate Limiting Strategies
+Disaster Recovery Playbooks (RPO/RTO Architecture)
+Multi-layered Caching Security (CDN + WAF + Reverse Proxy)
+Building Your Own Load Balancer
+How Instagram Handles Media at Scale
+Designing URL Shorteners (But optimizing for billions)
+Multi-cloud Active Failover Architectures
+Vector Database Architecture (Pinecone, Weaviate, pgvector)
+Designing LLM Inference Systems (Batching + KV Cache + Routing)
+Real-Time RAG Pipeline Architecture
+How to Build an LLM Gateway (Load balancing for AI models)
+Serverless with High Concurrency (Cold-start patterns)
+Step Functions vs Temporal for long-running workflows
+Designing throttled, queue-backed serverless APIs
+Hybrid Serverless + Microservices Architecture
+System Design of Twitter / Instagram / YouTube
+Cache Invalidation (the hard parts)
+How to design a highly scalable chat system
+Designing rate-limiters
+API Gateway vs Load Balancer vs Reverse Proxy
+CAP Theorem with real examples
+Choosing between SQL vs NoSQL with real-world cases
