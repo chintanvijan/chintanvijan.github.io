@@ -1,0 +1,40 @@
+Why Stateless Services Scale Better (with design patterns)
+Idempotency & Retry Patterns for Distributed Systems
+Backpressure Strategies to Prevent System Overload
+How to Design APIs That Scale to Millions of Requests
+Multi-tier Caching Strategy (Client → CDN → Edge → App → DB)
+Rate Limiting Techniques (Token Bucket, Leaky Bucket, Sliding Window)
+Designing High-Throughput Ingestion Pipelines
+Read/Write Splitting Best Practices
+Database Sharding: When to Start, How to Plan & What to Avoid
+Eventual Consistency Models in Real Systems
+Hot Partition Problems & How to Eliminate Them
+Choosing Between SQL, NoSQL, and NewSQL for Scaling
+Designing for Failure: Principles from Netflix Chaos Engineering
+Strong vs Eventual vs Causal Consistency — Deep Drive
+Saga Pattern vs Orchestration vs Choreography
+Distributed Locking Best Practices (Redis, Zookeeper, Etcd)
+How to Build Multi-Layer Cache Invalidation Strategies
+Caching Anti-Patterns Every Engineer Should Avoid
+CDN Edge Caching for Dynamic Content
+Redis Scaling Patterns (Cluster, Replication, Streams)
+Kafka vs RabbitMQ vs AWS SQS: Which One Scales Better & When
+Designing Event-Driven Microservices That Don’t Break Under Load
+High-throughput Pub/Sub Design (Ordering, Deduplication, Delivery Guarantees)
+Log-Based Architectures vs Traditional Message Brokers
+Microservices vs Modular Monolith: Which Scales Better?
+How to Design Microservice Boundaries That Don’t Break at Scale
+Service Mesh Best Practices (Istio, Linkerd)
+Observability-First Microservice Architecture
+How to Architect Auto-Scaling (CPU, Queue Length, Custom Metrics)
+Designing Serverless Architectures for Scale
+Multi-Region & Active-Active Architectures
+Cloud Cost Optimization: Scaling Without Burning Money
+How Instagram Scaled Photos to Billions
+Uber’s Microservice Scaling Lessons
+How YouTube Handles Millions of Concurrent Streams
+Amazon DynamoDB Design Principles Explained
+Distributed Rate Limiting Across Regions
+Using Bloom Filters to Scale Expensive Lookups
+CQRS + Event Sourcing for High-Write Systems
+Anti-Fragile Architectures (Systems That Improve Under Stress)
