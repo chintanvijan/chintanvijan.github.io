@@ -1,5 +1,5 @@
 
-Horizontal vs Vertical Scaling: When Each Actually Makes Sense
+
 Designing Multi-Region Active-Active Systems
 Traffic Sharding Strategies (Geo, Hash, Hybrid)
 Eliminating Single Points of Failure in Distributed Systems
