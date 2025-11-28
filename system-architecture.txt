@@ -1,0 +1,45 @@
+Microservices vs Monoliths vs Modular Monoliths — What companies choose in 2025
+Evolution of Serverless Architectures for high-throughput systems
+How Netflix, Uber, and Airbnb evolved their architecture over time
+Event-Driven Architecture in practice — pros, cons, and when it backfires
+API-First Architecture & Contract-Driven Development
+Designing systems that scale to millions of users
+Caching Architecture Patterns (CDN, Redis, write-through, cache-aside)
+Load balancing algorithms and when to use which
+Scaling databases without losing consistency (patterns & anti-patterns)
+Throughput vs latency vs concurrency — explained with real scenarios
+A deep dive into CAP Theorem beyond the textbook
+Designing for eventual consistency
+Distributed transactions: Saga Pattern vs Two-Phase Commit
+Gossip protocols and failure detection
+Building resilient distributed systems with backpressure, retries, and circuit breakers
+Designing for failure: chaos engineering for modern systems
+High availability architecture for mission-critical apps
+Observability stack: Logs, Metrics, Traces (ELK, Prometheus, OpenTelemetry)
+Real stories of outages and architectural lessons
+Circuit Breaker, Bulkhead, and Retry patterns demystified
+How Big Tech chooses databases: SQL, NoSQL, NewSQL
+Partitioning and sharding strategies with diagrams
+Multi-region database design & data residency challenges
+Event sourcing & CQRS — when it actually helps
+Storage & indexing optimization internals (B-Trees, LSM Trees)
+Architecting RAG systems for sub-100ms latency
+Vector databases — when to use Pinecone, Qdrant, Milvus
+Designing distributed embeddings pipelines
+Hybrid search architecture (dense + sparse)
+Scaling LLM inference in production
+Cloud-agnostic architecture: reality vs hype
+Building multi-cloud systems intelligently
+Designing for failover: active-active vs active-passive
+Cloud cost architecture: reducing cost by 70% with design changes
+Best AWS/GCP architectural blueprints for 2025
+Designing zero-trust systems from scratch
+Secrets architecture & key rotation
+OWASP top 10 architectural fixes
+Multi-tenant SaaS architecture security considerations
+API security architecture (rate limiting, JWT, mTLS)
+Designing real-time chat applications
+WebSocket scaling — sticky sessions vs distributed state
+Architecting real-time dashboards & analytics
+Kafka architecture deep dives
+High-frequency trading system architecture
