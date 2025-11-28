@@ -43,6 +43,3 @@ System Design of Twitter / Instagram / YouTube
 Cache Invalidation (the hard parts)
 How to design a highly scalable chat system
 Designing rate-limiters
-API Gateway vs Load Balancer vs Reverse Proxy
-CAP Theorem with real examples
-Choosing between SQL vs NoSQL with real-world cases
