@@ -1,0 +1,44 @@
+Event-Driven vs Request-Driven Scaling Models
+Designing for Backpressure & Flow Control
+Microservices vs Modular Monolith — Scaling myths and realities
+Strangler Fig Pattern for Scaling Legacy Systems
+Sharding Patterns — Range, Hash, and Geo-based
+Read-Heavy vs Write-Heavy DB Scaling Strategies
+How Netflix and Uber handle Data Partitioning
+Why Your Cache is Your Real Database (and how to tame it)
+Designing Hot Key–Resistant Caches
+PostgreSQL Scaling Playbook: Caching, Indexing, Partitioning, Sharding
+Rate Limiting Techniques — Sliding Window, Token Bucket, etc.
+Load Balancing Algorithms Explained (with scenarios)
+Latency Optimization: P99, P999, tail latencies & how hyperscalers reduce them
+Thundering Herd Problem — Why it happens and mitigation strategies
+Designing APIs for Multi-region Traffic
+Auto-scaling Strategies That Actually Work
+Multi-Region Active-Active Architectures
+How to Reduce Cross-Region Latency Under 50ms
+Serverless Scaling Pitfalls — Cold starts, concurrency limits, retries
+Kubernetes Scaling Internals (HPA, VPA, KEDA)
+Cost-Aware Architecture: How big companies save millions
+Profiling at scale — what to measure beyond CPU and RAM
+Using Queue Depth, Backlogs & Buffering to control system performance
+How to reduce Chatty APIs in microservices
+Designing efficient data pipelines that scale
+Secure autoscaling — preventing abuse as your system grows
+Distributed rate limiting for global systems
+Zero Trust at scale
+Handling DDoS bursts with adaptive load shedding
+Failure-Domain Aware Architecture
+Chaos Engineering: Modern experiments you can run
+Circuit Breaker Patterns with real examples
+How to Build Systems that Heal Themselves (auto-recovery)
+Reducing Single Points of Failure in distributed systems
+How Instagram handles 100M uploads per day
+Pinterest's migration to multi-region active-active
+Uber’s real-time dispatch algorithm scaling
+Slack’s message fanout architecture
+LinkedIn: How Kafka became their backbone
+How to design a scalable rate limiter from scratch
+Building a message queue using Redis
+Step-by-step: Design a scalable chat system
+Architecting an analytics pipeline that scales to billions of events
+How to measure and improve system throughput
