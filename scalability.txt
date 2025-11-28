@@ -1,4 +1,4 @@
-Event-Driven vs Request-Driven Scaling Models
+
 Designing for Backpressure & Flow Control
 Microservices vs Modular Monolith — Scaling myths and realities
 Strangler Fig Pattern for Scaling Legacy Systems
