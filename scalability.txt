@@ -1,5 +1,5 @@
 
-Designing for Backpressure & Flow Control
+
 Microservices vs Modular Monolith — Scaling myths and realities
 Strangler Fig Pattern for Scaling Legacy Systems
 Sharding Patterns — Range, Hash, and Geo-based
