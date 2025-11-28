@@ -1,4 +1,4 @@
-How to Evaluate a Tech Stack for Scalability: A Practical Decision Framework
+
 Choosing the Right Language for Scale: Go vs Rust vs Java vs Node.js vs Python
 How to Choose a Database Based on Your Growth Curve
 Vertical vs Horizontal Scalability: Matching the Tech Stack to the Scaling Strategy
