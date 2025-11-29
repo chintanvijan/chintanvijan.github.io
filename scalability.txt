@@ -1,7 +1,7 @@
 
 
 
-Strangler Fig Pattern for Scaling Legacy Systems
+
 Sharding Patterns — Range, Hash, and Geo-based
 Read-Heavy vs Write-Heavy DB Scaling Strategies
 How Netflix and Uber handle Data Partitioning
