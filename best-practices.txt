@@ -1,4 +1,4 @@
-Why Stateless Services Scale Better (with design patterns)
+
 Idempotency & Retry Patterns for Distributed Systems
 Backpressure Strategies to Prevent System Overload
 How to Design APIs That Scale to Millions of Requests
