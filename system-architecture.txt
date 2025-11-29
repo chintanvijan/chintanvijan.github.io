@@ -1,6 +1,6 @@
 
 
-How Netflix, Uber, and Airbnb evolved their architecture over time
+
 Event-Driven Architecture in practice — pros, cons, and when it backfires
 API-First Architecture & Contract-Driven Development
 Designing systems that scale to millions of users
