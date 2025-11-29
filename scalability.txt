@@ -3,7 +3,7 @@
 
 
 
-Read-Heavy vs Write-Heavy DB Scaling Strategies
+
 How Netflix and Uber handle Data Partitioning
 Why Your Cache is Your Real Database (and how to tame it)
 Designing Hot Key–Resistant Caches
