@@ -1,5 +1,5 @@
 
-Idempotency & Retry Patterns for Distributed Systems
+
 Backpressure Strategies to Prevent System Overload
 How to Design APIs That Scale to Millions of Requests
 Multi-tier Caching Strategy (Client → CDN → Edge → App → DB)
