@@ -5,7 +5,7 @@
 
 
 
-Why Your Cache is Your Real Database (and how to tame it)
+
 Designing Hot Key–Resistant Caches
 PostgreSQL Scaling Playbook: Caching, Indexing, Partitioning, Sharding
 Rate Limiting Techniques — Sliding Window, Token Bucket, etc.
