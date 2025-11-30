@@ -7,7 +7,7 @@
 
 
 
-PostgreSQL Scaling Playbook: Caching, Indexing, Partitioning, Sharding
+
 Rate Limiting Techniques — Sliding Window, Token Bucket, etc.
 Load Balancing Algorithms Explained (with scenarios)
 Latency Optimization: P99, P999, tail latencies & how hyperscalers reduce them
