@@ -6,7 +6,7 @@
 
 
 
-Designing Hot Key–Resistant Caches
+
 PostgreSQL Scaling Playbook: Caching, Indexing, Partitioning, Sharding
 Rate Limiting Techniques — Sliding Window, Token Bucket, etc.
 Load Balancing Algorithms Explained (with scenarios)
