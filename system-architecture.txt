@@ -1,7 +1,7 @@
 
 
 
-Event-Driven Architecture in practice — pros, cons, and when it backfires
+
 API-First Architecture & Contract-Driven Development
 Designing systems that scale to millions of users
 Caching Architecture Patterns (CDN, Redis, write-through, cache-aside)
