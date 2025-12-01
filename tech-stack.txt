@@ -1,7 +1,7 @@
 
 
 
-Vertical vs Horizontal Scalability: Matching the Tech Stack to the Scaling Strategy
+
 Stateless vs Stateful Architectures: Impact on Framework Choice (Node, Go, Java, Elixir, Rust)
 Concurrency Models Explained: Event Loop, Thread Pool, Actor Model, CSP — and When to Choose Which
 API Protocol Wars: REST vs gRPC vs GraphQL vs WebSockets Under Scale
