@@ -8,7 +8,7 @@
 
 
 
-Rate Limiting Techniques — Sliding Window, Token Bucket, etc.
+
 Load Balancing Algorithms Explained (with scenarios)
 Latency Optimization: P99, P999, tail latencies & how hyperscalers reduce them
 Thundering Herd Problem — Why it happens and mitigation strategies
