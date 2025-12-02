@@ -4,7 +4,7 @@
 
 
 
-Caching Architecture Patterns (CDN, Redis, write-through, cache-aside)
+
 Load balancing algorithms and when to use which
 Scaling databases without losing consistency (patterns & anti-patterns)
 Throughput vs latency vs concurrency — explained with real scenarios
