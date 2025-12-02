@@ -3,7 +3,7 @@
 
 
 
-Designing systems that scale to millions of users
+
 Caching Architecture Patterns (CDN, Redis, write-through, cache-aside)
 Load balancing algorithms and when to use which
 Scaling databases without losing consistency (patterns & anti-patterns)
