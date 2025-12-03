@@ -3,7 +3,7 @@
 
 
 
-Rate Limiting Techniques (Token Bucket, Leaky Bucket, Sliding Window)
+
 Designing High-Throughput Ingestion Pipelines
 Read/Write Splitting Best Practices
 Database Sharding: When to Start, How to Plan & What to Avoid
