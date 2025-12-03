@@ -6,7 +6,7 @@
 
 
 
-Scaling databases without losing consistency (patterns & anti-patterns)
+
 Throughput vs latency vs concurrency — explained with real scenarios
 A deep dive into CAP Theorem beyond the textbook
 Designing for eventual consistency
