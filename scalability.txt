@@ -10,7 +10,7 @@
 
 
 
-Latency Optimization: P99, P999, tail latencies & how hyperscalers reduce them
+
 Thundering Herd Problem — Why it happens and mitigation strategies
 Designing APIs for Multi-region Traffic
 Auto-scaling Strategies That Actually Work
