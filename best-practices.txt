@@ -4,7 +4,7 @@
 
 
 
-Designing High-Throughput Ingestion Pipelines
+
 Read/Write Splitting Best Practices
 Database Sharding: When to Start, How to Plan & What to Avoid
 Eventual Consistency Models in Real Systems
