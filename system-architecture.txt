@@ -7,7 +7,7 @@
 
 
 
-Throughput vs latency vs concurrency — explained with real scenarios
+
 A deep dive into CAP Theorem beyond the textbook
 Designing for eventual consistency
 Distributed transactions: Saga Pattern vs Two-Phase Commit
