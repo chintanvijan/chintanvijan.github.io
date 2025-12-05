@@ -4,7 +4,7 @@
 
 
 
-API Protocol Wars: REST vs gRPC vs GraphQL vs WebSockets Under Scale
+
 Evaluating Message Brokers for Scale: Kafka vs RabbitMQ vs NATS vs Redis Streams
 Monolith vs Microservices: How Tech Stack Choices Change With Architecture
 Edge vs Core Compute: How Stack Choices Differ for Latency-Sensitive Systems
