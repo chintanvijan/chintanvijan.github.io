@@ -8,7 +8,7 @@
 
 
 
-A deep dive into CAP Theorem beyond the textbook
+
 Designing for eventual consistency
 Distributed transactions: Saga Pattern vs Two-Phase Commit
 Gossip protocols and failure detection
