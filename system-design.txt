@@ -2,7 +2,7 @@
 
 
 
-Designing a Write-Heavy System (Queues, Log-based systems, CRDTs)
+
 DynamoDB / Cassandra style Partitioning explained
 Backpressure Handling Techniques in Production
 Real-time Streaming Architecture (Kafka, Pulsar, Redpanda)
