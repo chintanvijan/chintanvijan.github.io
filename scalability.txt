@@ -12,7 +12,7 @@
 
 
 
-Designing APIs for Multi-region Traffic
+
 Auto-scaling Strategies That Actually Work
 Multi-Region Active-Active Architectures
 How to Reduce Cross-Region Latency Under 50ms
