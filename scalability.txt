@@ -11,7 +11,7 @@
 
 
 
-Thundering Herd Problem — Why it happens and mitigation strategies
+
 Designing APIs for Multi-region Traffic
 Auto-scaling Strategies That Actually Work
 Multi-Region Active-Active Architectures
