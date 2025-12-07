@@ -9,7 +9,7 @@
 
 
 
-Designing for eventual consistency
+
 Distributed transactions: Saga Pattern vs Two-Phase Commit
 Gossip protocols and failure detection
 Building resilient distributed systems with backpressure, retries, and circuit breakers
