@@ -3,7 +3,7 @@
 
 
 
-DynamoDB / Cassandra style Partitioning explained
+
 Backpressure Handling Techniques in Production
 Real-time Streaming Architecture (Kafka, Pulsar, Redpanda)
 API Gateway + Edge Caching Design for <50ms Latency
