@@ -6,7 +6,7 @@
 
 
 
-API Gateway + Edge Caching Design for <50ms Latency
+
 How CDNs Actually Work (and how to design for them)
 Pre-computation + Materialized Views for Speed
 Queue Bypass Architectures (Critical Path Optimizations)
