@@ -10,7 +10,7 @@
 
 
 
-Distributed transactions: Saga Pattern vs Two-Phase Commit
+
 Gossip protocols and failure detection
 Building resilient distributed systems with backpressure, retries, and circuit breakers
 Designing for failure: chaos engineering for modern systems
