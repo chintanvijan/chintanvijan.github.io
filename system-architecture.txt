@@ -11,7 +11,7 @@
 
 
 
-Gossip protocols and failure detection
+
 Building resilient distributed systems with backpressure, retries, and circuit breakers
 Designing for failure: chaos engineering for modern systems
 High availability architecture for mission-critical apps
