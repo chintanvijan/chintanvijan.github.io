@@ -13,7 +13,7 @@
 
 
 
-Auto-scaling Strategies That Actually Work
+
 Multi-Region Active-Active Architectures
 How to Reduce Cross-Region Latency Under 50ms
 Serverless Scaling Pitfalls — Cold starts, concurrency limits, retries
