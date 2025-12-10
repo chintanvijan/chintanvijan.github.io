@@ -15,7 +15,7 @@
 
 
 
-How to Reduce Cross-Region Latency Under 50ms
+
 Serverless Scaling Pitfalls — Cold starts, concurrency limits, retries
 Kubernetes Scaling Internals (HPA, VPA, KEDA)
 Cost-Aware Architecture: How big companies save millions
