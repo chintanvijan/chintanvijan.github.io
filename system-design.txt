@@ -8,7 +8,7 @@
 
 
 
-Pre-computation + Materialized Views for Speed
+
 Queue Bypass Architectures (Critical Path Optimizations)
 Uber’s Hexagonal Architecture
 Airbnb’s Service-Oriented Federation Architecture
