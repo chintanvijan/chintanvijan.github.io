@@ -9,7 +9,7 @@
 
 
 
-Queue Bypass Architectures (Critical Path Optimizations)
+
 Uber’s Hexagonal Architecture
 Airbnb’s Service-Oriented Federation Architecture
 Meta’s Approach to Fault-Tolerant Microservices
