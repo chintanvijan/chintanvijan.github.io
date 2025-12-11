@@ -10,7 +10,7 @@
 
 
 
-Uber’s Hexagonal Architecture
+
 Airbnb’s Service-Oriented Federation Architecture
 Meta’s Approach to Fault-Tolerant Microservices
 WhatsApp’s Erlang-based Architecture for 2B Users
