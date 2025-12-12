@@ -9,7 +9,7 @@
 
 
 
-Choosing Between SQL, NoSQL, and NewSQL for Scaling
+
 Designing for Failure: Principles from Netflix Chaos Engineering
 Strong vs Eventual vs Causal Consistency — Deep Drive
 Saga Pattern vs Orchestration vs Choreography
