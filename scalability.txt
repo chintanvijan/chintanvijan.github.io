@@ -16,7 +16,7 @@
 
 
 
-Serverless Scaling Pitfalls — Cold starts, concurrency limits, retries
+
 Kubernetes Scaling Internals (HPA, VPA, KEDA)
 Cost-Aware Architecture: How big companies save millions
 Profiling at scale — what to measure beyond CPU and RAM
