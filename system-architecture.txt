@@ -14,7 +14,7 @@
 
 
 
-High availability architecture for mission-critical apps
+
 Observability stack: Logs, Metrics, Traces (ELK, Prometheus, OpenTelemetry)
 Real stories of outages and architectural lessons
 Circuit Breaker, Bulkhead, and Retry patterns demystified
