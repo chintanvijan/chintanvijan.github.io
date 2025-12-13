@@ -13,7 +13,7 @@
 
 
 
-WhatsApp’s Erlang-based Architecture for 2B Users
+
 Event Sourcing vs Event Streaming vs Change Data Capture
 Design Patterns for At-Least-Once + Exactly-Once Delivery
 Workflow Orchestration (Temporal, Cadence, Airflow)
