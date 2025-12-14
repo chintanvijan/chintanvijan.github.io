@@ -7,7 +7,7 @@
 
 
 
-Edge vs Core Compute: How Stack Choices Differ for Latency-Sensitive Systems
+
 SQL vs NoSQL for Scalable Systems — A Decision Making Checklist (With Real Examples)
 Which Database Scales Better for Your Use Case: Postgres, MySQL, MongoDB, DynamoDB, Cassandra, Couchbase?
 When Does Sharding Become Inevitable & How It Influences Tech Stack Choices
