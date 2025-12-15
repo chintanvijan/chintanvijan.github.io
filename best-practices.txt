@@ -10,7 +10,7 @@
 
 
 
-Designing for Failure: Principles from Netflix Chaos Engineering
+
 Strong vs Eventual vs Causal Consistency — Deep Drive
 Saga Pattern vs Orchestration vs Choreography
 Distributed Locking Best Practices (Redis, Zookeeper, Etcd)
