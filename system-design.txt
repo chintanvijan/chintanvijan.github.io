@@ -14,7 +14,7 @@
 
 
 
-Event Sourcing vs Event Streaming vs Change Data Capture
+
 Design Patterns for At-Least-Once + Exactly-Once Delivery
 Workflow Orchestration (Temporal, Cadence, Airflow)
 Saga Pattern Deep Dive—With Real Use Case
