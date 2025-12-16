@@ -15,7 +15,7 @@
 
 
 
-Design Patterns for At-Least-Once + Exactly-Once Delivery
+
 Workflow Orchestration (Temporal, Cadence, Airflow)
 Saga Pattern Deep Dive—With Real Use Case
 When (and Why) to Use Analytical DBs Like ClickHouse
