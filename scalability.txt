@@ -17,7 +17,7 @@
 
 
 
-Kubernetes Scaling Internals (HPA, VPA, KEDA)
+
 Cost-Aware Architecture: How big companies save millions
 Profiling at scale — what to measure beyond CPU and RAM
 Using Queue Depth, Backlogs & Buffering to control system performance
