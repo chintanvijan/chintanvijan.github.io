@@ -18,7 +18,7 @@
 
 
 
-How Big Tech chooses databases: SQL, NoSQL, NewSQL
+
 Partitioning and sharding strategies with diagrams
 Multi-region database design & data residency challenges
 Event sourcing & CQRS — when it actually helps
