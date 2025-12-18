@@ -9,7 +9,7 @@
 
 
 
-Which Database Scales Better for Your Use Case: Postgres, MySQL, MongoDB, DynamoDB, Cassandra, Couchbase?
+
 When Does Sharding Become Inevitable & How It Influences Tech Stack Choices
 Picking a Caching Layer: Redis vs Memcached vs CDN Edge Caching
 Best Storage Formats and Engines for High-Volume Workloads (Parquet, ORC, Columnar Stores)
