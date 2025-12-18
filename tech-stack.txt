@@ -10,7 +10,7 @@
 
 
 
-When Does Sharding Become Inevitable & How It Influences Tech Stack Choices
+
 Picking a Caching Layer: Redis vs Memcached vs CDN Edge Caching
 Best Storage Formats and Engines for High-Volume Workloads (Parquet, ORC, Columnar Stores)
 Choosing Between Serverless, Containers, and Bare Metal for Scalable Apps
