@@ -13,7 +13,7 @@
 
 
 
-Distributed Locking Best Practices (Redis, Zookeeper, Etcd)
+
 How to Build Multi-Layer Cache Invalidation Strategies
 Caching Anti-Patterns Every Engineer Should Avoid
 CDN Edge Caching for Dynamic Content
