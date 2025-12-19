@@ -18,7 +18,7 @@
 
 
 
-When (and Why) to Use Analytical DBs Like ClickHouse
+
 Architecting Multi-Tenant Databases
 Hot vs Cold Storage Tiering (S3 + Redis + DB combo)
 Search at Scale (Elasticsearch / OpenSearch / Vespa)
