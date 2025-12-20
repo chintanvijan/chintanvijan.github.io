@@ -19,7 +19,7 @@
 
 
 
-Profiling at scale — what to measure beyond CPU and RAM
+
 Using Queue Depth, Backlogs & Buffering to control system performance
 How to reduce Chatty APIs in microservices
 Designing efficient data pipelines that scale
