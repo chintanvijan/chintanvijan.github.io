@@ -20,7 +20,7 @@
 
 
 
-Multi-region database design & data residency challenges
+
 Event sourcing & CQRS — when it actually helps
 Storage & indexing optimization internals (B-Trees, LSM Trees)
 Architecting RAG systems for sub-100ms latency
