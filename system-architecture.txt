@@ -23,7 +23,7 @@
 
 
 
-Architecting RAG systems for sub-100ms latency
+
 Vector databases — when to use Pinecone, Qdrant, Milvus
 Designing distributed embeddings pipelines
 Hybrid search architecture (dense + sparse)
