@@ -22,7 +22,7 @@
 
 
 
-Storage & indexing optimization internals (B-Trees, LSM Trees)
+
 Architecting RAG systems for sub-100ms latency
 Vector databases — when to use Pinecone, Qdrant, Milvus
 Designing distributed embeddings pipelines
