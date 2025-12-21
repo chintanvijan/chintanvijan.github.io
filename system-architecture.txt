@@ -21,7 +21,7 @@
 
 
 
-Event sourcing & CQRS — when it actually helps
+
 Storage & indexing optimization internals (B-Trees, LSM Trees)
 Architecting RAG systems for sub-100ms latency
 Vector databases — when to use Pinecone, Qdrant, Milvus
