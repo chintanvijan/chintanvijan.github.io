@@ -19,7 +19,7 @@
 
 
 
-Architecting Multi-Tenant Databases
+
 Hot vs Cold Storage Tiering (S3 + Redis + DB combo)
 Search at Scale (Elasticsearch / OpenSearch / Vespa)
 Designing Zero Trust Architecture
