@@ -14,7 +14,7 @@
 
 
 
-How to Build Multi-Layer Cache Invalidation Strategies
+
 Caching Anti-Patterns Every Engineer Should Avoid
 CDN Edge Caching for Dynamic Content
 Redis Scaling Patterns (Cluster, Replication, Streams)
