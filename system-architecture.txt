@@ -24,7 +24,7 @@
 
 
 
-Vector databases — when to use Pinecone, Qdrant, Milvus
+
 Designing distributed embeddings pipelines
 Hybrid search architecture (dense + sparse)
 Scaling LLM inference in production
