@@ -13,7 +13,7 @@
 
 
 
-Choosing Between Serverless, Containers, and Bare Metal for Scalable Apps
+
 Evaluating Cloud Providers for Scalability: AWS vs GCP vs Azure — Strengths & Weaknesses
 Infra-as-Code Tech Stacks for Scale: Terraform vs Pulumi vs CloudFormation
 Choosing Load Balancers, Gateways, and API Management Stacks Under Heavy Traffic
