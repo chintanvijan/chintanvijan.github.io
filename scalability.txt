@@ -22,7 +22,7 @@
 
 
 
-Designing efficient data pipelines that scale
+
 Secure autoscaling — preventing abuse as your system grows
 Distributed rate limiting for global systems
 Zero Trust at scale
