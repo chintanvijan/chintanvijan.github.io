@@ -15,7 +15,7 @@
 
 
 
-Caching Anti-Patterns Every Engineer Should Avoid
+
 CDN Edge Caching for Dynamic Content
 Redis Scaling Patterns (Cluster, Replication, Streams)
 Kafka vs RabbitMQ vs AWS SQS: Which One Scales Better & When
