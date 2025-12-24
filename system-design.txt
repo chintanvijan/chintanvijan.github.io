@@ -21,7 +21,7 @@
 
 
 
-Search at Scale (Elasticsearch / OpenSearch / Vespa)
+
 Designing Zero Trust Architecture
 API Rate Limiting Strategies
 Disaster Recovery Playbooks (RPO/RTO Architecture)
