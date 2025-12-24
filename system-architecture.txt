@@ -25,7 +25,7 @@
 
 
 
-Designing distributed embeddings pipelines
+
 Hybrid search architecture (dense + sparse)
 Scaling LLM inference in production
 Cloud-agnostic architecture: reality vs hype
