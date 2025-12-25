@@ -16,7 +16,7 @@
 
 
 
-CDN Edge Caching for Dynamic Content
+
 Redis Scaling Patterns (Cluster, Replication, Streams)
 Kafka vs RabbitMQ vs AWS SQS: Which One Scales Better & When
 Designing Event-Driven Microservices That Don’t Break Under Load
