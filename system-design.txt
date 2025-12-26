@@ -24,7 +24,7 @@
 
 
 
-Disaster Recovery Playbooks (RPO/RTO Architecture)
+
 Multi-layered Caching Security (CDN + WAF + Reverse Proxy)
 Building Your Own Load Balancer
 How Instagram Handles Media at Scale
