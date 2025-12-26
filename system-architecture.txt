@@ -26,7 +26,7 @@
 
 
 
-Hybrid search architecture (dense + sparse)
+
 Scaling LLM inference in production
 Cloud-agnostic architecture: reality vs hype
 Building multi-cloud systems intelligently
