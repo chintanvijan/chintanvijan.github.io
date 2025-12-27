@@ -23,7 +23,7 @@
 
 
 
-Secure autoscaling — preventing abuse as your system grows
+
 Distributed rate limiting for global systems
 Zero Trust at scale
 Handling DDoS bursts with adaptive load shedding
