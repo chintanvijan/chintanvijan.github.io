@@ -28,7 +28,7 @@
 
 
 
-Cloud-agnostic architecture: reality vs hype
+
 Building multi-cloud systems intelligently
 Designing for failover: active-active vs active-passive
 Cloud cost architecture: reducing cost by 70% with design changes
