@@ -18,7 +18,7 @@
 
 
 
-Kafka vs RabbitMQ vs AWS SQS: Which One Scales Better & When
+
 Designing Event-Driven Microservices That Don’t Break Under Load
 High-throughput Pub/Sub Design (Ordering, Deduplication, Delivery Guarantees)
 Log-Based Architectures vs Traditional Message Brokers
