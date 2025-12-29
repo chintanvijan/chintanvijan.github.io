@@ -27,7 +27,7 @@
 
 
 
-How Instagram Handles Media at Scale
+
 Designing URL Shorteners (But optimizing for billions)
 Multi-cloud Active Failover Architectures
 Vector Database Architecture (Pinecone, Weaviate, pgvector)
