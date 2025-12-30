@@ -31,7 +31,7 @@
 
 
 
-Cloud cost architecture: reducing cost by 70% with design changes
+
 Best AWS/GCP architectural blueprints for 2025
 Designing zero-trust systems from scratch
 Secrets architecture & key rotation
