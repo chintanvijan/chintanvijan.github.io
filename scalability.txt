@@ -25,7 +25,7 @@
 
 
 
-Zero Trust at scale
+
 Handling DDoS bursts with adaptive load shedding
 Failure-Domain Aware Architecture
 Chaos Engineering: Modern experiments you can run
