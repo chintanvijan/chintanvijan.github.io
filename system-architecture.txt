@@ -33,7 +33,7 @@
 
 
 
-Designing zero-trust systems from scratch
+
 Secrets architecture & key rotation
 OWASP top 10 architectural fixes
 Multi-tenant SaaS architecture security considerations
