@@ -20,7 +20,7 @@
 
 
 
-High-throughput Pub/Sub Design (Ordering, Deduplication, Delivery Guarantees)
+
 Log-Based Architectures vs Traditional Message Brokers
 Microservices vs Modular Monolith: Which Scales Better?
 How to Design Microservice Boundaries That Don’t Break at Scale
