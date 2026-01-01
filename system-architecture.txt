@@ -34,7 +34,7 @@
 
 
 
-Secrets architecture & key rotation
+
 OWASP top 10 architectural fixes
 Multi-tenant SaaS architecture security considerations
 API security architecture (rate limiting, JWT, mTLS)
