@@ -21,7 +21,7 @@
 
 
 
-Latency vs Throughput: What Your Tech Stack Must Optimize For
+
 How Disaster Recovery & Multi-Region Strategy Influence Your Stack Choices
 Selecting the Right Frontend Stack: React, Next.js, Svelte, Vue for High-Scale Applications
 Client–Backend Interaction Patterns Under High Load: SWR, React Query, WebSockets, SSE
