@@ -27,7 +27,7 @@
 
 
 
-Failure-Domain Aware Architecture
+
 Chaos Engineering: Modern experiments you can run
 Circuit Breaker Patterns with real examples
 How to Build Systems that Heal Themselves (auto-recovery)
