@@ -38,7 +38,7 @@
 
 
 
-Designing real-time chat applications
+
 WebSocket scaling — sticky sessions vs distributed state
 Architecting real-time dashboards & analytics
 Kafka architecture deep dives
