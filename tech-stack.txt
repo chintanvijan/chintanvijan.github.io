@@ -23,7 +23,7 @@
 
 
 
-Selecting the Right Frontend Stack: React, Next.js, Svelte, Vue for High-Scale Applications
+
 Client–Backend Interaction Patterns Under High Load: SWR, React Query, WebSockets, SSE
 How Edge Rendering & CDN Strategies Affect Frontend Tech Stack Selection
 Team Skill Match vs Scalability Needs: How to Balance When Picking a Stack
