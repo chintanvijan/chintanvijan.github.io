@@ -23,7 +23,7 @@
 
 
 
-How to Design Microservice Boundaries That Don’t Break at Scale
+
 Service Mesh Best Practices (Istio, Linkerd)
 Observability-First Microservice Architecture
 How to Architect Auto-Scaling (CPU, Queue Length, Custom Metrics)
