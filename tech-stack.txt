@@ -25,7 +25,7 @@
 
 
 
-How Edge Rendering & CDN Strategies Affect Frontend Tech Stack Selection
+
 Team Skill Match vs Scalability Needs: How to Balance When Picking a Stack
 Build Speed vs Runtime Performance: Making the Right Tech Trade-off
 Total Cost of Ownership: How to Calculate the Real Cost of a Tech Stack
