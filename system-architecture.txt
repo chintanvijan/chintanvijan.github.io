@@ -41,5 +41,5 @@
 
 
 
-Kafka architecture deep dives
+
 High-frequency trading system architecture
