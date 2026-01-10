@@ -31,7 +31,7 @@
 
 
 
-Reducing Single Points of Failure in distributed systems
+
 How Instagram handles 100M uploads per day
 Pinterest's migration to multi-region active-active
 Uber’s real-time dispatch algorithm scaling
