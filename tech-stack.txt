@@ -27,7 +27,7 @@
 
 
 
-Build Speed vs Runtime Performance: Making the Right Tech Trade-off
+
 Total Cost of Ownership: How to Calculate the Real Cost of a Tech Stack
 Vendor Lock-In Considerations When Choosing Your Stack
 The Talent Market Problem: Choosing Stacks You Can Actually Hire For at Scale
