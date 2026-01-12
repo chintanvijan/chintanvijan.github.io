@@ -30,7 +30,7 @@
 
 
 
-The Talent Market Problem: Choosing Stacks You Can Actually Hire For at Scale
+
 How Netflix, Uber, Airbnb, and Instagram Picked Their Tech Stacks for Scale
 Tech Stack Evolution Stories: How Systems Change As Startups Grow from 10K → 1M → 100M Users
 Common Tech Stack Mistakes Startups Make When They Scale Too Fast
