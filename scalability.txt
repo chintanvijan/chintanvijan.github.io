@@ -32,7 +32,7 @@
 
 
 
-How Instagram handles 100M uploads per day
+
 Pinterest's migration to multi-region active-active
 Uber’s real-time dispatch algorithm scaling
 Slack’s message fanout architecture
