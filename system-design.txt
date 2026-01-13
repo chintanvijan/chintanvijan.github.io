@@ -30,7 +30,7 @@
 
 
 
-Vector Database Architecture (Pinecone, Weaviate, pgvector)
+
 Designing LLM Inference Systems (Batching + KV Cache + Routing)
 Real-Time RAG Pipeline Architecture
 How to Build an LLM Gateway (Load balancing for AI models)
