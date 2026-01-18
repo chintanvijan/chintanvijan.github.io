@@ -33,7 +33,7 @@
 
 
 
-Pinterest's migration to multi-region active-active
+
 Uber’s real-time dispatch algorithm scaling
 Slack’s message fanout architecture
 LinkedIn: How Kafka became their backbone
