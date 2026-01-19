@@ -34,7 +34,7 @@
 
 
 
-Uber’s real-time dispatch algorithm scaling
+
 Slack’s message fanout architecture
 LinkedIn: How Kafka became their backbone
 How to design a scalable rate limiter from scratch
