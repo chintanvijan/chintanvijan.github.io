@@ -34,7 +34,7 @@
 
 
 
-Serverless with High Concurrency (Cold-start patterns)
+
 Step Functions vs Temporal for long-running workflows
 Designing throttled, queue-backed serverless APIs
 Hybrid Serverless + Microservices Architecture
