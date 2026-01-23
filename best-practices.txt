@@ -27,7 +27,7 @@
 
 
 
-Designing Serverless Architectures for Scale
+
 Multi-Region & Active-Active Architectures
 Cloud Cost Optimization: Scaling Without Burning Money
 How Instagram Scaled Photos to Billions
