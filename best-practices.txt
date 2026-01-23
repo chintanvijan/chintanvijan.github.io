@@ -28,7 +28,7 @@
 
 
 
-Multi-Region & Active-Active Architectures
+
 Cloud Cost Optimization: Scaling Without Burning Money
 How Instagram Scaled Photos to Billions
 Uber’s Microservice Scaling Lessons
