@@ -30,7 +30,7 @@
 
 
 
-How Instagram Scaled Photos to Billions
+
 Uber’s Microservice Scaling Lessons
 How YouTube Handles Millions of Concurrent Streams
 Amazon DynamoDB Design Principles Explained
