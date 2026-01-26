@@ -36,7 +36,7 @@
 
 
 
-Designing throttled, queue-backed serverless APIs
+
 Hybrid Serverless + Microservices Architecture
 System Design of Twitter / Instagram / YouTube
 Cache Invalidation (the hard parts)
