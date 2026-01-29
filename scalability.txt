@@ -36,7 +36,7 @@
 
 
 
-LinkedIn: How Kafka became their backbone
+
 How to design a scalable rate limiter from scratch
 Building a message queue using Redis
 Step-by-step: Design a scalable chat system
