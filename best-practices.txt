@@ -33,7 +33,7 @@
 
 
 
-Amazon DynamoDB Design Principles Explained
+
 Distributed Rate Limiting Across Regions
 Using Bloom Filters to Scale Expensive Lookups
 CQRS + Event Sourcing for High-Write Systems
