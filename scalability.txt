@@ -37,7 +37,7 @@
 
 
 
-How to design a scalable rate limiter from scratch
+
 Building a message queue using Redis
 Step-by-step: Design a scalable chat system
 Architecting an analytics pipeline that scales to billions of events
