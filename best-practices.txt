@@ -34,7 +34,7 @@
 
 
 
-Distributed Rate Limiting Across Regions
+
 Using Bloom Filters to Scale Expensive Lookups
 CQRS + Event Sourcing for High-Write Systems
 Anti-Fragile Architectures (Systems That Improve Under Stress)
