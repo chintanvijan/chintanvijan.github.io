@@ -38,7 +38,7 @@
 
 
 
-Building a message queue using Redis
+
 Step-by-step: Design a scalable chat system
 Architecting an analytics pipeline that scales to billions of events
 How to measure and improve system throughput
