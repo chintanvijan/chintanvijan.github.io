@@ -37,4 +37,4 @@
 
 
 
-Anti-Fragile Architectures (Systems That Improve Under Stress)
+
