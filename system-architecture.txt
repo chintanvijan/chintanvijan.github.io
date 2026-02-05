@@ -1,4 +1,96 @@
-
+How to make architecture decisions under uncertainty
+Architecture trade-offs: why “best practices” often fail
+When NOT to scale: premature optimization horror stories
+Designing systems with reversible vs irreversible decisions
+Architecture reviews: how to critique systems constructively
+Microservices anti-patterns nobody talks about
+When event-driven architecture becomes event-driven chaos
+Over-engineering: signs your architecture is too complex
+Tight coupling disguised as microservices
+Distributed monoliths — how they happen and how to fix them
+Designing a rate limiter from scratch
+Design a notification system at scale
+Designing an API gateway for millions of users
+Design a URL shortener — production-grade version
+Designing idempotent APIs
+Handling retries without duplications
+Threading vs async vs event loops — real-world implications
+Handling race conditions at scale
+Distributed locking strategies (Redis, Zookeeper, etcd)
+Designing systems for high write concurrency
+Backpressure handling in high-throughput systems
+Messaging & Streaming Architectures
+Kafka vs RabbitMQ vs Pulsar — architectural comparison
+Exactly-once semantics: myth vs reality
+Designing dead-letter queues properly
+Stream processing architecture with Kafka Streams / Flink
+Ordering guarantees in distributed systems
+Microservices Deep Dive
+Service discovery patterns
+Versioning microservices without breaking clients
+Managing inter-service communication at scale
+Handling schema evolution in microservices
+Microservices observability at scale
+Frontend + Backend Architecture
+Backend for Frontend (BFF) pattern explained
+Microfrontend architecture: real-world lessons
+SSR vs CSR vs ISR architecture trade-offs
+API aggregation patterns for frontend performance
+Designing frontend architecture for large teams
+Infrastructure & Platform Engineering
+Platform engineering vs DevOps — where the line really is
+Building an internal developer platform (IDP)
+Designing self-healing infrastructure
+Immutable infrastructure explained
+Infrastructure drift — causes and prevention
+Data Engineering Architecture
+Batch vs stream processing architecture
+Designing data lakes vs data warehouses
+Lambda vs Kappa architecture — which still matters?
+Real-time analytics architecture
+Data quality & validation architecture
+Multi-Tenant SaaS Architecture
+Single-tenant vs multi-tenant architecture trade-offs
+Data isolation strategies for SaaS
+Tenant-aware caching
+Tenant-based rate limiting
+Schema-per-tenant vs shared schema
+Cost, Scale & Business Alignment
+Architecture that kills startups vs architecture that scales them
+How architecture impacts burn rate
+Designing for cloud cost visibility
+FinOps architecture patterns
+Build vs buy decisions from an architect’s lens
+Edge, IoT & Real-Time
+Edge computing architecture explained
+Designing IoT platforms at scale
+Handling intermittent connectivity in distributed systems
+Edge caching strategies
+Real-time telemetry ingestion architecture
+Security & Compliance Architecture
+Designing systems for GDPR & data privacy
+Audit logging architecture
+Multi-region disaster recovery planning
+Identity architecture for large systems
+Authentication vs authorization — system-level view
+Opinionated / Thought Leadership Topics
+These build personal brand + authority:
+Why microservices are overrated for 80% of startups
+“Scalability” is not your real problem — architecture is
+Why most system design interviews test the wrong skills
+Architecture is about people, not diagrams
+Why your system is slow even with good infrastructure
+Future & Emerging Architecture
+Architecture for AI-native applications
+LLM orchestration architecture patterns
+Autonomous systems architecture
+Web3 system architecture explained for backend engineers
+Architecture for real-time multiplayer games
+How to think like a system architect
+Transitioning from senior engineer to architect
+Architecture skills nobody teaches
+How to read architecture diagrams correctly
+Learning distributed systems the right way
 
 
 
