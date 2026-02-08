@@ -37,7 +37,7 @@
 
 
 
-Hybrid Serverless + Microservices Architecture
+
 System Design of Twitter / Instagram / YouTube
 Cache Invalidation (the hard parts)
 How to design a highly scalable chat system
