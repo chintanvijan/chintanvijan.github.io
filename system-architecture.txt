@@ -1,6 +1,6 @@
 
 
-When NOT to scale: premature optimization horror stories
+
 Designing systems with reversible vs irreversible decisions
 Architecture reviews: how to critique systems constructively
 Microservices anti-patterns nobody talks about
