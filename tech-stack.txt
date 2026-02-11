@@ -1,6 +1,6 @@
 
 
-Why “Future-Proof” Tech Stacks Usually Fail (And What to Do Instead)
+
 
 Designing for Scale vs Designing for Growth — Choosing Different Stacks
 
