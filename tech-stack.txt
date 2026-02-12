@@ -2,7 +2,7 @@
 
 
 
-Designing for Scale vs Designing for Growth — Choosing Different Stacks
+
 
 How to Choose a Tech Stack Without Knowing Your Final Architecture
 
