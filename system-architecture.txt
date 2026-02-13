@@ -3,7 +3,7 @@
 
 
 
-Microservices anti-patterns nobody talks about
+
 When event-driven architecture becomes event-driven chaos
 Over-engineering: signs your architecture is too complex
 Tight coupling disguised as microservices
