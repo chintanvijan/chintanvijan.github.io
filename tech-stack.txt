@@ -4,7 +4,7 @@
 
 
 
-How to Choose a Tech Stack Without Knowing Your Final Architecture
+
 
 Avoiding Premature Optimization While Still Building for Scale
 
