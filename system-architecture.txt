@@ -4,7 +4,7 @@
 
 
 
-When event-driven architecture becomes event-driven chaos
+
 Over-engineering: signs your architecture is too complex
 Tight coupling disguised as microservices
 Distributed monoliths — how they happen and how to fix them
