@@ -5,7 +5,7 @@
 
 
 
-Over-engineering: signs your architecture is too complex
+
 Tight coupling disguised as microservices
 Distributed monoliths — how they happen and how to fix them
 Designing a rate limiter from scratch
