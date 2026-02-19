@@ -6,7 +6,7 @@
 
 
 
-Avoiding Premature Optimization While Still Building for Scale
+
 
 The Myth of the “Best Tech Stack” for Scalable Systems
 
