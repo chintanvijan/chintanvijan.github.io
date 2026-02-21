@@ -8,7 +8,7 @@
 
 
 
-The Myth of the “Best Tech Stack” for Scalable Systems
+
 
 Build for Failure First: Stack Decisions That Improve Resilience
 
