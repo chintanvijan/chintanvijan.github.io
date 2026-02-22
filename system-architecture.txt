@@ -8,7 +8,7 @@
 
 
 
-Designing a rate limiter from scratch
+
 Design a notification system at scale
 Designing an API gateway for millions of users
 Design a URL shortener — production-grade version
