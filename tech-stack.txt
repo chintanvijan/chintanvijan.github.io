@@ -10,7 +10,7 @@
 
 
 
-Build for Failure First: Stack Decisions That Improve Resilience
+
 
 Tech Stack Decisions That Are Hard to Reverse (And Which Ones Aren’t)
 
