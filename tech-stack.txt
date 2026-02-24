@@ -14,7 +14,7 @@
 
 
 
-Async vs Sync Frameworks: What Actually Scales Better in Production
+
 
 Garbage Collection vs Manual Memory Management at Scale
 
