@@ -12,7 +12,7 @@
 
 
 
-Tech Stack Decisions That Are Hard to Reverse (And Which Ones Aren’t)
+
 
 Async vs Sync Frameworks: What Actually Scales Better in Production
 
