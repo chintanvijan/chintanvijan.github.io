@@ -11,7 +11,7 @@
 
 
 
-Design a URL shortener — production-grade version
+
 Designing idempotent APIs
 Handling retries without duplications
 Threading vs async vs event loops — real-world implications
