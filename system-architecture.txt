@@ -12,7 +12,7 @@
 
 
 
-Designing idempotent APIs
+
 Handling retries without duplications
 Threading vs async vs event loops — real-world implications
 Handling race conditions at scale
