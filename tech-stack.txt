@@ -16,7 +16,7 @@
 
 
 
-Garbage Collection vs Manual Memory Management at Scale
+
 
 How Runtime Warm-Up Time Affects High-Traffic Systems
 
