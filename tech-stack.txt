@@ -18,7 +18,7 @@
 
 
 
-How Runtime Warm-Up Time Affects High-Traffic Systems
+
 
 Choosing a Framework Based on Threading & Scheduling Behavior
 
