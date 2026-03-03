@@ -14,7 +14,7 @@
 
 
 
-Threading vs async vs event loops — real-world implications
+
 Handling race conditions at scale
 Distributed locking strategies (Redis, Zookeeper, etcd)
 Designing systems for high write concurrency
