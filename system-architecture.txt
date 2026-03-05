@@ -16,7 +16,7 @@
 
 
 
-Distributed locking strategies (Redis, Zookeeper, etcd)
+
 Designing systems for high write concurrency
 Backpressure handling in high-throughput systems
 Messaging & Streaming Architectures
