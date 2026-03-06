@@ -22,7 +22,7 @@
 
 
 
-JIT vs AOT Compilation: Impact on Latency and Throughput
+
 
 How Language Ecosystem Maturity Impacts Long-Term Scalability
 
