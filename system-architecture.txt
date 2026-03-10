@@ -18,7 +18,7 @@
 
 
 
-Backpressure handling in high-throughput systems
+
 Messaging & Streaming Architectures
 Kafka vs RabbitMQ vs Pulsar — architectural comparison
 Exactly-once semantics: myth vs reality
