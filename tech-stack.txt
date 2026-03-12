@@ -26,7 +26,7 @@
 
 
 
-Why Some High-Performance Languages Fail at Organizational Scale
+
 
 Language Choice and Cold-Start Performance in Autoscaling Systems
 
