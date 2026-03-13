@@ -20,7 +20,7 @@
 
 
 
-Kafka vs RabbitMQ vs Pulsar — architectural comparison
+
 Exactly-once semantics: myth vs reality
 Designing dead-letter queues properly
 Stream processing architecture with Kafka Streams / Flink
