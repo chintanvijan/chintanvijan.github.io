@@ -28,7 +28,7 @@
 
 
 
-Language Choice and Cold-Start Performance in Autoscaling Systems
+
 
 CPU-Bound vs IO-Bound Workloads: Picking the Right Runtime
 
