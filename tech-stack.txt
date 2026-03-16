@@ -32,7 +32,7 @@
 
 
 
-Event-Driven Architectures: How They Change Your Tech Stack Choices
+
 
 CQRS and Event Sourcing: Stack Implications Most Blogs Ignore
 
