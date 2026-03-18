@@ -34,7 +34,7 @@
 
 
 
-CQRS and Event Sourcing: Stack Implications Most Blogs Ignore
+
 
 Service Mesh Adoption: How It Changes Your Language & Framework Choices
 
