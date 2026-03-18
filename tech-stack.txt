@@ -36,7 +36,7 @@
 
 
 
-Service Mesh Adoption: How It Changes Your Language & Framework Choices
+
 
 API-First Systems: Designing Your Stack Around Contracts
 
