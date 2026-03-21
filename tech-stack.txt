@@ -38,7 +38,7 @@
 
 
 
-API-First Systems: Designing Your Stack Around Contracts
+
 
 Choosing a Stack for Multi-Tenant Systems
 
