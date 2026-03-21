@@ -40,7 +40,7 @@
 
 
 
-Choosing a Stack for Multi-Tenant Systems
+
 
 Tech Stack Implications of Real-Time Systems
 
