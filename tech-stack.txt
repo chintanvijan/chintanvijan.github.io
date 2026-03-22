@@ -44,7 +44,7 @@
 
 
 
-How Domain Complexity Should Influence Stack Selection
+
 
 When Your Stack Forces You Into an Architecture (And Why That’s Dangerous)
 
