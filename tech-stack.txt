@@ -42,7 +42,7 @@
 
 
 
-Tech Stack Implications of Real-Time Systems
+
 
 How Domain Complexity Should Influence Stack Selection
 
