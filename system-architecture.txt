@@ -21,7 +21,7 @@
 
 
 
-Exactly-once semantics: myth vs reality
+
 Designing dead-letter queues properly
 Stream processing architecture with Kafka Streams / Flink
 Ordering guarantees in distributed systems
