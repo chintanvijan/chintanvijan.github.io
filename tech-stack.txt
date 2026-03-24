@@ -46,7 +46,7 @@
 
 
 
-When Your Stack Forces You Into an Architecture (And Why That’s Dangerous)
+
 
 Strong vs Eventual Consistency: Stack-Level Implications
 
