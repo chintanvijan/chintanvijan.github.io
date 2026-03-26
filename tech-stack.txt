@@ -48,7 +48,7 @@
 
 
 
-Strong vs Eventual Consistency: Stack-Level Implications
+
 
 How Database Connection Limits Influence Backend Language Choice
 
