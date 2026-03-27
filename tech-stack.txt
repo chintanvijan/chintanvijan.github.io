@@ -52,7 +52,7 @@
 
 
 
-Choosing Databases Based on Query Shape, Not Popularity
+
 
 Polyglot Persistence: When One Database Is Not Enough
 
