@@ -50,7 +50,7 @@
 
 
 
-How Database Connection Limits Influence Backend Language Choice
+
 
 Choosing Databases Based on Query Shape, Not Popularity
 
