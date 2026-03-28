@@ -23,7 +23,7 @@
 
 
 
-Stream processing architecture with Kafka Streams / Flink
+
 Ordering guarantees in distributed systems
 Microservices Deep Dive
 Service discovery patterns
