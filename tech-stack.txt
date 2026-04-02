@@ -54,7 +54,7 @@
 
 
 
-Polyglot Persistence: When One Database Is Not Enough
+
 
 Impact of ORM vs Query Builders on Scalable Systems
 
