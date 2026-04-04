@@ -24,7 +24,7 @@
 
 
 
-Ordering guarantees in distributed systems
+
 Microservices Deep Dive
 Service discovery patterns
 Versioning microservices without breaking clients
