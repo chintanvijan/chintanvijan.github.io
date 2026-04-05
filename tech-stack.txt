@@ -56,7 +56,7 @@
 
 
 
-Impact of ORM vs Query Builders on Scalable Systems
+
 
 Read Replicas, Write Leaders, and Stack-Level Support
 
