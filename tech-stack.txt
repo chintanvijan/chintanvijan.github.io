@@ -58,7 +58,7 @@
 
 
 
-Read Replicas, Write Leaders, and Stack-Level Support
+
 
 How Schema Migration Strategies Affect Stack Decisions
 
