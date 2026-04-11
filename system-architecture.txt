@@ -26,7 +26,7 @@
 
 
 
-Service discovery patterns
+
 Versioning microservices without breaking clients
 Managing inter-service communication at scale
 Handling schema evolution in microservices
