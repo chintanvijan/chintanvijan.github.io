@@ -60,7 +60,7 @@
 
 
 
-How Schema Migration Strategies Affect Stack Decisions
+
 
 Choosing Datastores for Time-Series, Analytics, and OLTP Together
 
