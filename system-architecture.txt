@@ -28,7 +28,7 @@
 
 
 
-Managing inter-service communication at scale
+
 Handling schema evolution in microservices
 Microservices observability at scale
 Frontend + Backend Architecture
