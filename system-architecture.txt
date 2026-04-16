@@ -29,7 +29,7 @@
 
 
 
-Handling schema evolution in microservices
+
 Microservices observability at scale
 Frontend + Backend Architecture
 Backend for Frontend (BFF) pattern explained
