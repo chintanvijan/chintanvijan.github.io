@@ -30,7 +30,7 @@
 
 
 
-Microservices observability at scale
+
 Frontend + Backend Architecture
 Backend for Frontend (BFF) pattern explained
 Microfrontend architecture: real-world lessons
