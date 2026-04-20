@@ -31,7 +31,7 @@
 
 
 
-Frontend + Backend Architecture
+
 Backend for Frontend (BFF) pattern explained
 Microfrontend architecture: real-world lessons
 SSR vs CSR vs ISR architecture trade-offs
