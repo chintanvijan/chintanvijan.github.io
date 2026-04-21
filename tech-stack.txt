@@ -62,7 +62,7 @@
 
 
 
-Choosing Datastores for Time-Series, Analytics, and OLTP Together
+
 
 Hot Partitions: How Stack Choices Can Create or Solve Them
 
