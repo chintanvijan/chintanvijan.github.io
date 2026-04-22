@@ -64,7 +64,7 @@
 
 
 
-Hot Partitions: How Stack Choices Can Create or Solve Them
+
 
 Latency Budgets and How They Drive Tech Stack Choices
 
