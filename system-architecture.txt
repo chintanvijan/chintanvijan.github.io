@@ -32,7 +32,7 @@
 
 
 
-Backend for Frontend (BFF) pattern explained
+
 Microfrontend architecture: real-world lessons
 SSR vs CSR vs ISR architecture trade-offs
 API aggregation patterns for frontend performance
