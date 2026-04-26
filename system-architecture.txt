@@ -34,7 +34,7 @@
 
 
 
-SSR vs CSR vs ISR architecture trade-offs
+
 API aggregation patterns for frontend performance
 Designing frontend architecture for large teams
 Infrastructure & Platform Engineering
