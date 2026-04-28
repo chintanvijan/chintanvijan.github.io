@@ -66,7 +66,7 @@
 
 
 
-Latency Budgets and How They Drive Tech Stack Choices
+
 
 Understanding Tail Latency (P95, P99) Before Choosing a Stack
 
