@@ -35,7 +35,7 @@
 
 
 
-API aggregation patterns for frontend performance
+
 Designing frontend architecture for large teams
 Infrastructure & Platform Engineering
 Platform engineering vs DevOps — where the line really is
