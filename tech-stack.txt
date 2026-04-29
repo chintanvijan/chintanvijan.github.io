@@ -68,7 +68,7 @@
 
 
 
-Understanding Tail Latency (P95, P99) Before Choosing a Stack
+
 
 Throughput Scaling vs Request Scaling: Different Stack Needs
 
