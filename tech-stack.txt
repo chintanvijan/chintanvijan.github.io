@@ -70,7 +70,7 @@
 
 
 
-Throughput Scaling vs Request Scaling: Different Stack Needs
+
 
 CPU Affinity, NUMA, and Why Some Stacks Scale Poorly on Large Machines
 
