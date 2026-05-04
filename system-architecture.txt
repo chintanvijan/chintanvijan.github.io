@@ -38,7 +38,7 @@
 
 
 
-Platform engineering vs DevOps — where the line really is
+
 Building an internal developer platform (IDP)
 Designing self-healing infrastructure
 Immutable infrastructure explained
