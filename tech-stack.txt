@@ -72,7 +72,7 @@
 
 
 
-CPU Affinity, NUMA, and Why Some Stacks Scale Poorly on Large Machines
+
 
 Impact of Serialization Formats on End-to-End Performance
 
