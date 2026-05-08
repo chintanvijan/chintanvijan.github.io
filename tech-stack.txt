@@ -74,7 +74,7 @@
 
 
 
-Impact of Serialization Formats on End-to-End Performance
+
 
 When Your Framework Becomes the Bottleneck
 
