@@ -39,7 +39,7 @@
 
 
 
-Building an internal developer platform (IDP)
+
 Designing self-healing infrastructure
 Immutable infrastructure explained
 Infrastructure drift — causes and prevention
