@@ -40,7 +40,7 @@
 
 
 
-Designing self-healing infrastructure
+
 Immutable infrastructure explained
 Infrastructure drift — causes and prevention
 Data Engineering Architecture
