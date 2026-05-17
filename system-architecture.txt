@@ -42,7 +42,7 @@
 
 
 
-Infrastructure drift — causes and prevention
+
 Data Engineering Architecture
 Batch vs stream processing architecture
 Designing data lakes vs data warehouses
