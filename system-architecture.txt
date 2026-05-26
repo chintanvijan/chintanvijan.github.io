@@ -44,7 +44,7 @@
 
 
 
-Batch vs stream processing architecture
+
 Designing data lakes vs data warehouses
 Lambda vs Kappa architecture — which still matters?
 Real-time analytics architecture
