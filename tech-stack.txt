@@ -80,7 +80,7 @@
 
 
 
-Load Shedding Strategies and Stack Support
+
 
 Choosing a Stack That’s Observable by Default
 
