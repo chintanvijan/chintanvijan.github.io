@@ -45,7 +45,7 @@
 
 
 
-Designing data lakes vs data warehouses
+
 Lambda vs Kappa architecture — which still matters?
 Real-time analytics architecture
 Data quality & validation architecture
