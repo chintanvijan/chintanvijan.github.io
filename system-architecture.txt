@@ -46,7 +46,7 @@
 
 
 
-Lambda vs Kappa architecture — which still matters?
+
 Real-time analytics architecture
 Data quality & validation architecture
 Multi-Tenant SaaS Architecture
