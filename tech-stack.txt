@@ -82,7 +82,7 @@
 
 
 
-Choosing a Stack That’s Observable by Default
+
 
 How Logging Strategy Influences Framework and Language Choice
 
