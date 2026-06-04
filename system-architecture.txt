@@ -47,7 +47,7 @@
 
 
 
-Real-time analytics architecture
+
 Data quality & validation architecture
 Multi-Tenant SaaS Architecture
 Single-tenant vs multi-tenant architecture trade-offs
