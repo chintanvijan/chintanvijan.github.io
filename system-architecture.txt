@@ -50,7 +50,7 @@
 
 
 
-Single-tenant vs multi-tenant architecture trade-offs
+
 Data isolation strategies for SaaS
 Tenant-aware caching
 Tenant-based rate limiting
