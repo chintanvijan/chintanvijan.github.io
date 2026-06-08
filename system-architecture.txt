@@ -51,7 +51,7 @@
 
 
 
-Data isolation strategies for SaaS
+
 Tenant-aware caching
 Tenant-based rate limiting
 Schema-per-tenant vs shared schema
