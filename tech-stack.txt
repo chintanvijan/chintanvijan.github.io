@@ -84,7 +84,7 @@
 
 
 
-How Logging Strategy Influences Framework and Language Choice
+
 
 Tracing at Scale: Which Stacks Make It Easier or Harder
 
