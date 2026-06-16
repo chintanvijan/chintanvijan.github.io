@@ -52,7 +52,7 @@
 
 
 
-Tenant-aware caching
+
 Tenant-based rate limiting
 Schema-per-tenant vs shared schema
 Cost, Scale & Business Alignment
