@@ -53,7 +53,7 @@
 
 
 
-Tenant-based rate limiting
+
 Schema-per-tenant vs shared schema
 Cost, Scale & Business Alignment
 Architecture that kills startups vs architecture that scales them
