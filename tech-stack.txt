@@ -86,7 +86,7 @@
 
 
 
-Tracing at Scale: Which Stacks Make It Easier or Harder
+
 
 Metrics Cardinality Problems Caused by Poor Stack Decisions
 
