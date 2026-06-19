@@ -54,7 +54,7 @@
 
 
 
-Schema-per-tenant vs shared schema
+
 Cost, Scale & Business Alignment
 Architecture that kills startups vs architecture that scales them
 How architecture impacts burn rate
