@@ -92,7 +92,7 @@
 
 
 
-Stack Choices That Reduce Mean Time to Recovery (MTTR)
+
 
 How Runtime Introspection Helps at Scale
 
