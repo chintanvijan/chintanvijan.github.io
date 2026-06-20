@@ -90,7 +90,7 @@
 
 
 
-Debugging Distributed Systems: Why Some Stacks Age Better
+
 
 Stack Choices That Reduce Mean Time to Recovery (MTTR)
 
