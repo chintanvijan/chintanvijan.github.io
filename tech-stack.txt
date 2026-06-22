@@ -96,7 +96,7 @@
 
 
 
-Tech Stack Choices That Work Best With Kubernetes Autoscaling
+
 
 Serverless Scalability Limits You Must Know Before Choosing a Stack
 
