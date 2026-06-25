@@ -100,7 +100,7 @@
 
 
 
-Choosing a Stack for Multi-Cloud or Hybrid Environments
+
 
 How Container Image Size Impacts Scaling Speed
 
