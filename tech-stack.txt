@@ -102,7 +102,7 @@
 
 
 
-How Container Image Size Impacts Scaling Speed
+
 
 ARM vs x86: Stack Compatibility at Scale
 
