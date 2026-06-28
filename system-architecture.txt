@@ -57,7 +57,7 @@
 
 
 
-How architecture impacts burn rate
+
 Designing for cloud cost visibility
 FinOps architecture patterns
 Build vs buy decisions from an architect’s lens
