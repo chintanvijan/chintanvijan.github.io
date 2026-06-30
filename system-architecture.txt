@@ -58,7 +58,7 @@
 
 
 
-Designing for cloud cost visibility
+
 FinOps architecture patterns
 Build vs buy decisions from an architect’s lens
 Edge, IoT & Real-Time
