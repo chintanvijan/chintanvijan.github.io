@@ -60,7 +60,7 @@
 
 
 
-Build vs buy decisions from an architect’s lens
+
 Edge, IoT & Real-Time
 Edge computing architecture explained
 Designing IoT platforms at scale
