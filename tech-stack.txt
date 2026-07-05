@@ -106,7 +106,7 @@
 
 
 
-Impact of Network Stack Implementation on Performance
+
 
 Cold vs Warm Scaling: Stack-Level Trade-offs
 
