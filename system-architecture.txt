@@ -61,7 +61,7 @@
 
 
 
-Edge, IoT & Real-Time
+
 Edge computing architecture explained
 Designing IoT platforms at scale
 Handling intermittent connectivity in distributed systems
