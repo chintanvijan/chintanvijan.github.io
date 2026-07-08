@@ -62,7 +62,7 @@
 
 
 
-Edge computing architecture explained
+
 Designing IoT platforms at scale
 Handling intermittent connectivity in distributed systems
 Edge caching strategies
