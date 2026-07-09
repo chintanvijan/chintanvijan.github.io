@@ -63,7 +63,7 @@
 
 
 
-Designing IoT platforms at scale
+
 Handling intermittent connectivity in distributed systems
 Edge caching strategies
 Real-time telemetry ingestion architecture
