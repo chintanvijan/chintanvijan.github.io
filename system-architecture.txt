@@ -65,7 +65,7 @@
 
 
 
-Edge caching strategies
+
 Real-time telemetry ingestion architecture
 Security & Compliance Architecture
 Designing systems for GDPR & data privacy
