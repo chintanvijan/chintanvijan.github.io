@@ -108,7 +108,7 @@
 
 
 
-Cold vs Warm Scaling: Stack-Level Trade-offs
+
 
 Security by Design: Stack Features That Reduce Attack Surface
 
