@@ -68,7 +68,7 @@
 
 
 
-Designing systems for GDPR & data privacy
+
 Audit logging architecture
 Multi-region disaster recovery planning
 Identity architecture for large systems
