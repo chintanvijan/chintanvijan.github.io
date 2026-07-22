@@ -69,7 +69,7 @@
 
 
 
-Audit logging architecture
+
 Multi-region disaster recovery planning
 Identity architecture for large systems
 Authentication vs authorization — system-level view
