@@ -112,7 +112,7 @@
 
 
 
-How Memory Safety Affects Scalability & Reliability
+
 
 Secrets Management and Stack Integration Challenges
 
