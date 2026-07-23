@@ -114,7 +114,7 @@
 
 
 
-Secrets Management and Stack Integration Challenges
+
 
 Choosing Tech Stacks for Regulated Environments
 
