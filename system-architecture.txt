@@ -71,7 +71,7 @@
 
 
 
-Identity architecture for large systems
+
 Authentication vs authorization — system-level view
 Opinionated / Thought Leadership Topics
 These build personal brand + authority:
