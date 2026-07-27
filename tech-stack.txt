@@ -116,7 +116,7 @@
 
 
 
-Choosing Tech Stacks for Regulated Environments
+
 
 Security Patch Velocity as a Stack Selection Criterion
 
