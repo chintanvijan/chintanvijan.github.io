@@ -118,7 +118,7 @@
 
 
 
-Security Patch Velocity as a Stack Selection Criterion
+
 
 Conway’s Law and Its Impact on Tech Stack Decisions
 
