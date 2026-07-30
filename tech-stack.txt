@@ -120,7 +120,7 @@
 
 
 
-Conway’s Law and Its Impact on Tech Stack Decisions
+
 
 How Team Topology Influences Framework Choice
 
