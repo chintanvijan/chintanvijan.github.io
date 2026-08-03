@@ -124,7 +124,7 @@
 
 
 
-Onboarding Speed vs Runtime Efficiency Trade-offs
+
 
 Why “Senior-Only” Tech Stacks Don’t Scale Teams
 
