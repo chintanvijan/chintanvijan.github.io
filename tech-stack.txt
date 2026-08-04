@@ -126,7 +126,7 @@
 
 
 
-Why “Senior-Only” Tech Stacks Don’t Scale Teams
+
 
 Developer Experience as a Scalability Multiplier
 
