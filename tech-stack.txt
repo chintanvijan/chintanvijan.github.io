@@ -128,7 +128,7 @@
 
 
 
-Developer Experience as a Scalability Multiplier
+
 
 Documentation, Tooling, and Long-Term Maintainability
 
