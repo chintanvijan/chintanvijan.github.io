@@ -130,7 +130,7 @@
 
 
 
-Documentation, Tooling, and Long-Term Maintainability
+
 
 How Tech Stack Choices Affect Incident Response Culture
 
