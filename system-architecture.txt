@@ -72,7 +72,7 @@
 
 
 
-Authentication vs authorization — system-level view
+
 Opinionated / Thought Leadership Topics
 These build personal brand + authority:
 Why microservices are overrated for 80% of startups
