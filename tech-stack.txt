@@ -132,7 +132,7 @@
 
 
 
-How Tech Stack Choices Affect Incident Response Culture
+
 
 When Your Tech Stack Hits a Scaling Ceiling
 
