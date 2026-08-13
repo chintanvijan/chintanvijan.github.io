@@ -74,7 +74,7 @@
 
 
 
-These build personal brand + authority:
+
 Why microservices are overrated for 80% of startups
 “Scalability” is not your real problem — architecture is
 Why most system design interviews test the wrong skills
