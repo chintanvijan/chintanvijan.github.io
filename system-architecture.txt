@@ -77,7 +77,7 @@
 
 
 
-Why most system design interviews test the wrong skills
+
 Architecture is about people, not diagrams
 Why your system is slow even with good infrastructure
 Future & Emerging Architecture
