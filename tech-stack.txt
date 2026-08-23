@@ -138,7 +138,7 @@
 
 
 
-Strangler Fig Pattern: Stack Implications
+
 
 Lessons From Failed Rewrites at Scale
 
