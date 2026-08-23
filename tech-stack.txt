@@ -136,7 +136,7 @@
 
 
 
-How to Migrate Tech Stacks Without Downtime
+
 
 Strangler Fig Pattern: Stack Implications
 
