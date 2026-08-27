@@ -78,7 +78,7 @@
 
 
 
-Architecture is about people, not diagrams
+
 Why your system is slow even with good infrastructure
 Future & Emerging Architecture
 Architecture for AI-native applications
