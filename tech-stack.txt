@@ -142,7 +142,7 @@
 
 
 
-Identifying Early Warning Signs of Stack Mismatch
+
 
 When to Rewrite vs When to Optimize
 
