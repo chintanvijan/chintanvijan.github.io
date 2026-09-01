@@ -1,4 +1,4 @@
-Scaling Systems When Traffic Follows a Power-Law Distribution
+
 Designing for Sudden 100× Traffic Growth
 Scaling Based on Work Per Request Instead of Request Count
 Estimating Scalability Before Writing Production Code
