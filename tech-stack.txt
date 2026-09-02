@@ -144,7 +144,7 @@
 
 
 
-When to Rewrite vs When to Optimize
+
 
 Stack Evolution Playbooks From Real Companies
 
