@@ -1,4 +1,4 @@
-Designing Systems Around Failure Domains
+
 Failure Detection in Large Distributed Systems
 Phi Accrual Failure Detection Explained
 Designing Distributed Heartbeat Mechanisms
