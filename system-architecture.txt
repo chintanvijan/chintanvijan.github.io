@@ -79,7 +79,7 @@
 
 
 
-Why your system is slow even with good infrastructure
+
 Future & Emerging Architecture
 Architecture for AI-native applications
 LLM orchestration architecture patterns
