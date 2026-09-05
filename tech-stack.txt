@@ -146,7 +146,7 @@
 
 
 
-Stack Evolution Playbooks From Real Companies
+
 
 Choosing a Stack for AI-Heavy, LLM-Driven Systems
 
