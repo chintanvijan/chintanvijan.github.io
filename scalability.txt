@@ -1,6 +1,6 @@
 
 
-Scaling Based on Work Per Request Instead of Request Count
+
 Estimating Scalability Before Writing Production Code
 Building a Scalability Budget for Every Service
 Finding the First Non-Linear Bottleneck in an Architecture
