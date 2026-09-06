@@ -80,7 +80,7 @@
 
 
 
-Future & Emerging Architecture
+
 Architecture for AI-native applications
 LLM orchestration architecture patterns
 Autonomous systems architecture
