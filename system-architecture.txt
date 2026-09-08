@@ -82,7 +82,7 @@
 
 
 
-LLM orchestration architecture patterns
+
 Autonomous systems architecture
 Web3 system architecture explained for backend engineers
 Architecture for real-time multiplayer games
