@@ -150,7 +150,7 @@
 
 
 
-Scalability Challenges in Gaming, FinTech, and Real-Time Analytics
+
 
 Edge Computing Stack Decisions for Global Scale
 
