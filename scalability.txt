@@ -2,7 +2,7 @@
 
 
 
-Building a Scalability Budget for Every Service
+
 Finding the First Non-Linear Bottleneck in an Architecture
 Designing Systems Around a Known Growth Curve
 Capacity Headroom: How Much Is Enough?
