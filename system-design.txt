@@ -1,5 +1,5 @@
 
-Failure Detection in Large Distributed Systems
+
 Phi Accrual Failure Detection Explained
 Designing Distributed Heartbeat Mechanisms
 Gossip Protocols for Service Discovery
