@@ -152,7 +152,7 @@
 
 
 
-Edge Computing Stack Decisions for Global Scale
+
 
 Blockchain & Web3 Scalability: Stack Realities vs Hype
 
