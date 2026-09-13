@@ -1,7 +1,7 @@
 
 
 
-Designing Distributed Heartbeat Mechanisms
+
 Gossip Protocols for Service Discovery
 Anti-Entropy Protocols in Distributed Systems
 Merkle Trees for Distributed State Synchronization
