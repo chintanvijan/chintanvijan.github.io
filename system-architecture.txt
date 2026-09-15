@@ -84,7 +84,7 @@
 
 
 
-Web3 system architecture explained for backend engineers
+
 Architecture for real-time multiplayer games
 How to think like a system architect
 Transitioning from senior engineer to architect
