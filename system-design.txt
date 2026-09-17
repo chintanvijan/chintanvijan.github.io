@@ -3,7 +3,7 @@
 
 
 
-Anti-Entropy Protocols in Distributed Systems
+
 Merkle Trees for Distributed State Synchronization
 Vector Clocks for Distributed Event Ordering
 Lamport Clocks in Production Architectures
