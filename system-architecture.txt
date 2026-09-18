@@ -86,7 +86,7 @@
 
 
 
-How to think like a system architect
+
 Transitioning from senior engineer to architect
 Architecture skills nobody teaches
 How to read architecture diagrams correctly
