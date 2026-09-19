@@ -4,7 +4,7 @@
 
 
 
-Designing Systems Around a Known Growth Curve
+
 Capacity Headroom: How Much Is Enough?
 Scaling Efficiency: Measuring Useful Work Per Added Server
 Linear Scaling vs Sublinear Scaling vs Superlinear Scaling
