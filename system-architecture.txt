@@ -87,7 +87,7 @@
 
 
 
-Transitioning from senior engineer to architect
+
 Architecture skills nobody teaches
 How to read architecture diagrams correctly
 Learning distributed systems the right way
