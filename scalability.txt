@@ -6,7 +6,7 @@
 
 
 
-Scaling Efficiency: Measuring Useful Work Per Added Server
+
 Linear Scaling vs Sublinear Scaling vs Superlinear Scaling
 How to Detect a Scaling Cliff Before Production
 Designing for Predictable Capacity Exhaustion
