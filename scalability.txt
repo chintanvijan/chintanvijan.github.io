@@ -8,7 +8,7 @@
 
 
 
-How to Detect a Scaling Cliff Before Production
+
 Designing for Predictable Capacity Exhaustion
 Workload Characterization Before Scaling an Application
 Scaling Systems With Bursty Rather Than Steady Traffic
