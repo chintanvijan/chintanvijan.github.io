@@ -5,7 +5,7 @@
 
 
 
-Vector Clocks for Distributed Event Ordering
+
 Lamport Clocks in Production Architectures
 Hybrid Logical Clocks for Global Systems
 Logical Time vs Physical Time in Distributed Systems
