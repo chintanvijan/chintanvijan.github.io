@@ -158,7 +158,7 @@
 
 
 
-High-Frequency Trading Stack Considerations
+
 
 Building Internal Platforms That Scale Across Teams
 
