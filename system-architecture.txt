@@ -89,7 +89,7 @@
 
 
 
-How to read architecture diagrams correctly
+
 Learning distributed systems the right way
 
 
