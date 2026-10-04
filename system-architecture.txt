@@ -90,7 +90,7 @@
 
 
 
-Learning distributed systems the right way
+
 
 
 
