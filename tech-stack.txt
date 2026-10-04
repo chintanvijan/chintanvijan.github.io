@@ -160,7 +160,7 @@
 
 
 
-Building Internal Platforms That Scale Across Teams
+
 
 Why Kubernetes Is Overkill for Most Scalable Apps
 
