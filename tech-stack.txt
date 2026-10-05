@@ -162,7 +162,7 @@
 
 
 
-Why Kubernetes Is Overkill for Most Scalable Apps
+
 
 Why Microservices Hurt Scalability More Than They Help
 
