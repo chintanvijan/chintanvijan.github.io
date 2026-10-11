@@ -166,7 +166,7 @@
 
 
 
-Why Your Stack Matters Less Than Your Data Model
+
 
 Why Most Performance Problems Aren’t Language Problems
 
