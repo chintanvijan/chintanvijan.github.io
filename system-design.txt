@@ -8,7 +8,7 @@
 
 
 
-Logical Time vs Physical Time in Distributed Systems
+
 Designing Around Clock Skew
 Handling Clock Drift Across Data Centers
 Distributed Systems Without a Global Clock
