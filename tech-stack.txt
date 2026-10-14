@@ -168,7 +168,7 @@
 
 
 
-Why Most Performance Problems Aren’t Language Problems
+
 
 Why Scalability Is an Organizational Problem, Not a Technical One
 
