@@ -11,7 +11,7 @@
 
 
 
-Scaling Systems With Bursty Rather Than Steady Traffic
+
 Scaling Systems With Highly Variable Request Costs
 Designing for Unknown Future Workloads
 Estimating Infrastructure Requirements From Business Growth
