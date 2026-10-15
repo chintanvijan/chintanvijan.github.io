@@ -9,7 +9,7 @@
 
 
 
-Designing Around Clock Skew
+
 Handling Clock Drift Across Data Centers
 Distributed Systems Without a Global Clock
 Causal Consistency in Practical Architectures
