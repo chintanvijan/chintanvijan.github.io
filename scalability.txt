@@ -13,7 +13,7 @@
 
 
 
-Designing for Unknown Future Workloads
+
 Estimating Infrastructure Requirements From Business Growth
 Turning User Growth Into Infrastructure Capacity
 Building a Capacity Model From Production Metrics
