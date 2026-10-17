@@ -12,7 +12,7 @@
 
 
 
-Scaling Systems With Highly Variable Request Costs
+
 Designing for Unknown Future Workloads
 Estimating Infrastructure Requirements From Business Growth
 Turning User Growth Into Infrastructure Capacity
