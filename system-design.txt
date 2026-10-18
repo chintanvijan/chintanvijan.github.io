@@ -10,7 +10,7 @@
 
 
 
-Handling Clock Drift Across Data Centers
+
 Distributed Systems Without a Global Clock
 Causal Consistency in Practical Architectures
 Session Guarantees in Distributed Applications
