@@ -11,7 +11,7 @@
 
 
 
-Distributed Systems Without a Global Clock
+
 Causal Consistency in Practical Architectures
 Session Guarantees in Distributed Applications
 Read-Your-Writes Consistency in Global Systems
