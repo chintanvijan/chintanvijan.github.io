@@ -15,7 +15,7 @@
 
 
 
-Turning User Growth Into Infrastructure Capacity
+
 Building a Capacity Model From Production Metrics
 Scaling Limits: Hardware Limits vs Architectural Limits
 Finding Hidden Serialization Points in Large Systems
