@@ -12,7 +12,7 @@
 
 
 
-Causal Consistency in Practical Architectures
+
 Session Guarantees in Distributed Applications
 Read-Your-Writes Consistency in Global Systems
 Monotonic Reads and Monotonic Writes
