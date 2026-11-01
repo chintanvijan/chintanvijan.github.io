@@ -17,7 +17,7 @@
 
 
 
-Scaling Limits: Hardware Limits vs Architectural Limits
+
 Finding Hidden Serialization Points in Large Systems
 Scaling Around Global Locks
 Scaling Around Sequential Workflows
