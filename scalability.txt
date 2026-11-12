@@ -18,7 +18,7 @@
 
 
 
-Finding Hidden Serialization Points in Large Systems
+
 Scaling Around Global Locks
 Scaling Around Sequential Workflows
 Removing Serialization From High-Throughput Systems
