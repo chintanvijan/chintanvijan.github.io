@@ -19,7 +19,7 @@
 
 
 
-Scaling Around Global Locks
+
 Scaling Around Sequential Workflows
 Removing Serialization From High-Throughput Systems
 Parallelism Limits in Distributed Applications
