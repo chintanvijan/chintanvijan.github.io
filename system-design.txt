@@ -14,7 +14,7 @@
 
 
 
-Read-Your-Writes Consistency in Global Systems
+
 Monotonic Reads and Monotonic Writes
 Bounded Staleness Architecture
 Designing Systems with Explicit Consistency Budgets
