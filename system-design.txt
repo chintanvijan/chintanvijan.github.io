@@ -15,7 +15,7 @@
 
 
 
-Monotonic Reads and Monotonic Writes
+
 Bounded Staleness Architecture
 Designing Systems with Explicit Consistency Budgets
 Quorum Reads and Writes in Practice
